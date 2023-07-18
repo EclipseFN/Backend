@@ -1,4 +1,4 @@
 ClientSettings/
 *.Sav
 node_modules/
-Config/
+Config/config.json
